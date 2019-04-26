@@ -1,0 +1,39 @@
+Student Explain How it works
+Simple Exercises
+	Forms
+
+Update V3
+	login.php
+	list.php
+	view.php
+
+search.php
+delete.php
+
+userMng
+newuser.php  echo password_hash("Test", PASSWORD_DEFAULT);
+Alter table add Name email
+editUser.php 
+
+Add Table Books? Files?
+admin header php
+
+edit.php // validate data
+
+/////////////////////////////
+
+Exercises
+
+Functions
+function CountFromUntil() {}
+https://www.phpexercises.com/php-arguments-return-value-exercise.html
+
+
+ARRAYS
+https://www.phpexercises.com/php-manipulate-array-exercise.html
+https://www.phpexercises.com/php-multi-dimensional-array.html
+
+FORMS
+https://www.phpexercises.com/php-form-if-else-exercise.html
+https://www.phpexercises.com/php-simple-form-response.html
+https://www.phpexercises.com/php-user-input-arrays-exercise.html

@@ -1,0 +1,22 @@
+2019-03-15T09:22:55+00:00 CRITICAL require(): Failed opening required 'http://localhost/myWeb/wp-content/themes/murble/inc/custom-post.php' (include_path='.;C:\php\pear') in C:\wamp64\www\myWeb\wp-content\themes\murble\functions.php alla riga 38
+
+2019-03-15T09:24:02+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\myWeb/wp-content/themes/murble/inc/custom-post.php' (include_path='.;C:\php\pear') in C:\wamp64\www\myWeb\wp-content\themes\murble\functions.php alla riga 38
+
+2019-03-15T09:24:33+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\myWeb/wp-content/themes/murble\inc\custom-post.php' (include_path='.;C:\php\pear') in C:\wamp64\www\myWeb\wp-content\themes\murble\functions.php alla riga 38
+
+2019-03-15T11:02:47+00:00 CRITICAL syntax error, unexpected ''/img/default.jpg" alt="Defaul' (T_ENCAPSED_AND_WHITESPACE) in C:\wamp64\www\myWeb\wp-content\themes\murble\front-page.php alla riga 93
+
+2019-03-15T13:26:45+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\myWeb\wp-content\themes\murble\inc\custom-posts.php alla riga 60
+
+2019-03-15T13:26:47+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\myWeb\wp-content\themes\murble\inc\custom-posts.php alla riga 60
+
+2019-03-15T13:57:04+00:00 CRITICAL syntax error, unexpected '=', expecting ')' in C:\wamp64\www\myWeb\wp-content\themes\murble\front-page.php alla riga 51
+
+2019-03-15T14:53:46+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_ID() in C:\wamp64\www\myWeb\wp-content\themes\murble\front-page.php:69
+Stack trace:
+#0 C:\wamp64\www\myWeb\wp-includes\template-loader.php(77): include()
+#1 C:\wamp64\www\myWeb\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\m...')
+#2 C:\wamp64\www\myWeb\index.php(17): require('C:\\wamp64\\www\\m...')
+#3 {main}
+  thrown in C:\wamp64\www\myWeb\wp-content\themes\murble\front-page.php alla riga 69
+
